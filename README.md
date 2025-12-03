@@ -6,9 +6,10 @@
 
 <div align="center">
   <blockquote>
-    <i>"Scientists discover the world that exists; engineers create the world that never was."</i><br>
-    — <b>Theodore von Kármán</b>
+    <i>"Any sufficiently advanced technology is indistinguishable from magic."</i><br>
+    — <b>Arthur C. Clarke</b>
   </blockquote>
+  <p><i>(And as an engineer, I build the wand.)</i></p>
 </div>
 
 ---
